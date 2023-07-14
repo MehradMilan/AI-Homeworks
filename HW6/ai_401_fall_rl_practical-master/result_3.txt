@@ -1,0 +1,167 @@
+I0209 01:20:00.461197 140522280474432 rl_environment.py:183] Using game string: tic_tac_toe
+I0209 01:20:01.361707 140522280474432 tic_tac_toe_qlearner.py:164] Starting episode 0, win_rates [0.791 0.445], lose_rates [0.16  0.518] against random_agents
+I0209 01:20:02.919741 140522280474432 tic_tac_toe_qlearner.py:164] Starting episode 0, win_rates [1. 0.], lose_rates [0. 1.] against qlearning_agents
+I0209 01:20:14.445318 140522280474432 tic_tac_toe_qlearner.py:164] Starting episode 10000, win_rates [0.981 0.706], lose_rates [0.    0.188] against random_agents
+I0209 01:20:16.202627 140522280474432 tic_tac_toe_qlearner.py:164] Starting episode 10000, win_rates [0. 0.], lose_rates [0. 0.] against qlearning_agents
+I0209 01:20:27.434606 140522280474432 tic_tac_toe_qlearner.py:164] Starting episode 20000, win_rates [0.986 0.708], lose_rates [0.    0.159] against random_agents
+I0209 01:20:29.361462 140522280474432 tic_tac_toe_qlearner.py:164] Starting episode 20000, win_rates [0. 0.], lose_rates [0. 0.] against qlearning_agents
+I0209 01:20:41.065272 140522280474432 tic_tac_toe_qlearner.py:164] Starting episode 30000, win_rates [0.997 0.74 ], lose_rates [0.    0.129] against random_agents
+I0209 01:20:43.098657 140522280474432 tic_tac_toe_qlearner.py:164] Starting episode 30000, win_rates [0. 0.], lose_rates [0. 0.] against qlearning_agents
+I0209 01:20:54.185648 140522280474432 tic_tac_toe_qlearner.py:164] Starting episode 40000, win_rates [0.992 0.776], lose_rates [0.    0.107] against random_agents
+I0209 01:20:55.831721 140522280474432 tic_tac_toe_qlearner.py:164] Starting episode 40000, win_rates [0. 0.], lose_rates [0. 0.] against qlearning_agents
+I0209 01:21:08.264682 140522280474432 tic_tac_toe_qlearner.py:164] Starting episode 50000, win_rates [0.957 0.73 ], lose_rates [0.006 0.1  ] against random_agents
+I0209 01:21:10.042056 140522280474432 tic_tac_toe_qlearner.py:164] Starting episode 50000, win_rates [0. 0.], lose_rates [0. 0.] against qlearning_agents
+I0209 01:21:19.786087 140522280474432 tic_tac_toe_qlearner.py:108] 
+not won: -1.0
+
+state:
+[['.' '.' '.']
+ ['.' '.' '.']
+ ['.' '.' '0']]
+
+
+state:
+[['.' '.' 'X']
+ ['.' '.' '.']
+ ['.' '.' '0']]
+
+
+state:
+[['.' '.' 'X']
+ ['.' '.' '.']
+ ['0' '.' '0']]
+
+
+state:
+[['.' '.' 'X']
+ ['X' '.' '.']
+ ['0' '.' '0']]
+
+
+state:
+[['.' '.' 'X']
+ ['X' '.' '.']
+ ['0' '0' '0']]
+
+I0209 01:21:19.791624 140522280474432 tic_tac_toe_qlearner.py:108] 
+not won: -1.0
+
+state:
+[['.' '.' '.']
+ ['.' '.' '.']
+ ['.' '.' '0']]
+
+
+state:
+[['.' '.' 'X']
+ ['.' '.' '.']
+ ['.' '.' '0']]
+
+
+state:
+[['0' '.' 'X']
+ ['.' '.' '.']
+ ['.' '.' '0']]
+
+
+state:
+[['0' 'X' 'X']
+ ['.' '.' '.']
+ ['.' '.' '0']]
+
+
+state:
+[['0' 'X' 'X']
+ ['0' '.' '.']
+ ['.' '.' '0']]
+
+
+state:
+[['0' 'X' 'X']
+ ['0' '.' '.']
+ ['X' '.' '0']]
+
+
+state:
+[['0' 'X' 'X']
+ ['0' '0' '.']
+ ['X' '.' '0']]
+
+I0209 01:21:19.794552 140522280474432 tic_tac_toe_qlearner.py:108] 
+not won: -1.0
+
+state:
+[['.' '.' '.']
+ ['.' '.' '.']
+ ['.' '.' '0']]
+
+
+state:
+[['.' '.' 'X']
+ ['.' '.' '.']
+ ['.' '.' '0']]
+
+
+state:
+[['0' '.' 'X']
+ ['.' '.' '.']
+ ['.' '.' '0']]
+
+
+state:
+[['0' 'X' 'X']
+ ['.' '.' '.']
+ ['.' '.' '0']]
+
+
+state:
+[['0' 'X' 'X']
+ ['.' '.' '.']
+ ['.' '0' '0']]
+
+
+state:
+[['0' 'X' 'X']
+ ['X' '.' '.']
+ ['.' '0' '0']]
+
+
+state:
+[['0' 'X' 'X']
+ ['X' '.' '.']
+ ['0' '0' '0']]
+
+I0209 01:21:19.807019 140522280474432 tic_tac_toe_qlearner.py:108] 
+not won: -1.0
+
+state:
+[['.' '.' '.']
+ ['.' '.' '.']
+ ['.' '.' '0']]
+
+
+state:
+[['.' '.' 'X']
+ ['.' '.' '.']
+ ['.' '.' '0']]
+
+
+state:
+[['.' '.' 'X']
+ ['.' '.' '.']
+ ['0' '.' '0']]
+
+
+state:
+[['.' '.' 'X']
+ ['X' '.' '.']
+ ['0' '.' '0']]
+
+
+state:
+[['.' '.' 'X']
+ ['X' '.' '.']
+ ['0' '0' '0']]
+
+I0209 01:21:20.256963 140522280474432 tic_tac_toe_qlearner.py:164] Starting episode 59999, win_rates [0.998 0.799], lose_rates [0.    0.064] against random_agents
+I0209 01:21:21.757343 140522280474432 tic_tac_toe_qlearner.py:164] Starting episode 59999, win_rates [0. 0.], lose_rates [0. 0.] against qlearning_agents
